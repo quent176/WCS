@@ -1,5 +1,5 @@
 body {
-    background-color: gray;
+    background-color: #808080;
     margin: auto;
 }
 
@@ -8,14 +8,14 @@ body {
 }
 
 .green {
-    background-color: greenyellow;
+    background-color: #ADFF2F;
     height: 50px;
 }
 
 
 /* For First block */
 .gray {
-    background-color: gray;
+    background-color: #808080;
     height: 50px;
 }
 
