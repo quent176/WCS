@@ -1,0 +1,27 @@
+body {
+    background-color: gray;
+    margin: auto;
+}
+
+.container {
+    width: 400px;
+}
+
+.green {
+    background-color: greenyellow;
+    height: 50px;
+}
+
+
+/* For First block */
+.gray {
+    background-color: gray;
+    height: 50px;
+}
+
+/* Change container from Px to % */
+@media screen and (max-width: 400px) {
+    .container {
+        width: auto;
+    }
+}
